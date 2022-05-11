@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**Mofan2020/Mofan2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on app create(use pycharm app)
+- 🌱 I’m currently learning python3.10
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: panmofan@icloud.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
