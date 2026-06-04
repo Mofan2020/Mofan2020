@@ -1,16 +1,37 @@
-### Hi there 👋
+# 🪐 深空遗尘 (skyc8266)
 
-<!--
-**Mofan2020/Mofan2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “这个人一点也不懒，但什么也没有留下”
 
-Here are some ideas to get you started:
+## 👋 关于我
 
-- 🔭 I’m currently working on app create(use pycharm app)
-- 🌱 I’m currently learning python3.10
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: panmofan@icloud.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍🎓 学生开发者
+- 💡 实用主义：**自己需要什么，就动手做什么**
+- 🔧 擅长从零搭工具、填自己的坑
+- 🤝 欢迎一起协作、交流想法
+
+## 🧰 技术栈
+
+- **Python** – 脚本、小工具、数据处理
+- **Swift / SwiftUI / Metal** – 原生苹果生态开发
+- **前端三件套** – HTML, CSS, JavaScript（不使用 Node.js / React / Electron 等）
+
+## 🌱 当前兴趣
+
+- MLX (机器学习框架)
+- SwiftUI + Metal 图形/计算
+- 实用工具 & 游戏工具箱
+
+## 📫 联系方式
+
+- GitHub: [@Mofan2020](https://github.com/Mofan2020)
+- QQ: 2500693887
+- 邮箱: panmofan@icloud.com
+- 个人网站: *正在建设中……*
+
+## ✨ 格言
+
+> 我或曾梦见，与你亲密无间；  
+> 醒来后发现，你我形同陌路。  
+> ——《鸣潮》弗洛洛
+
+---
