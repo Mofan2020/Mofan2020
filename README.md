@@ -19,16 +19,12 @@
 - XiJian(可以加入我们一起开发哦～ join@mail.skyc8266.uk)
 - SmartNote(当前处于维护状态，不会添加新功能)
 
-## 📫 联系方式（有些是凑数的）
+## 📫 联系方式
 
 - GitHub: [@Mofan2020](https://github.com/Mofan2020)
 - QQ: 2500693887
 - 邮箱: panmofan@icloud.com 或 guest@mail.skyc8266.uk
 - 个人网站: [Skyc8266 の 小窝](https://skyc8266.uk)
-- 原神（暂退）：284663057
-- 崩铁（暂退）：134984764
-- 第五人格：深空遗尘
-- 无尽的拉格朗日：xkm星空喵
 - 想不出来了……
 
 ## 🐱 让我简单喵两句～
