@@ -11,15 +11,38 @@
 
 ## 🧰 技术栈
 
+- **Swift / SwiftUI** – 原生 macOS 应用
 - **Python** – 脚本、小工具、数据处理
-- **Swift / SwiftUI** – 原生苹果生态开发
 
 ## 🌱 我的项目
 
-1. DeepSleep - macOS睡眠管理程序（如果拿Mac当服务器的话会很有用，同时也提供了进程优先级调整、HOSTS修改、自动化等实用工具）
-2. SDM - 努力超越IDM的多线程下载工具（仅支持macOS，目前还在测试）
-3. HexoMan - 方便快捷的Hexo个人博客管理工具（仅支持macOS）
-4. UCopy - Windows U盘复制工具
+### DeepSleep
+
+macOS 睡眠与电源管理工具。保持清醒、定时睡眠与唤醒、服务器模式、完整的 `pmset` 控制，菜单栏常驻。
+
+[GitHub](https://github.com/Mofan2020/DeepSleep) · [下载](https://github.com/Mofan2020/DeepSleep/releases)
+
+### SDM（SuperDownloadManager）
+
+macOS 多线程下载器，对标 IDM，自写动态分片与断点续传。
+
+[GitHub](https://github.com/Mofan2020/SuperDownloadManager)
+
+### HexoMan
+
+Hexo 博客的 macOS 原生管理器：站点 / 文章 / 构建 / 配置 / Git 全流程。
+
+[GitHub](https://github.com/Mofan2020/HexoMan)
+
+### UCopy
+
+Windows U 盘自动复制工具，后台常驻。
+
+[GitHub](https://github.com/Mofan2020/UCopy-Windows)
+
+### 其他
+
+[ncm](https://github.com/Mofan2020/ncm) 网易云音乐歌单下载器 · [SuperInject](https://github.com/Mofan2020/SuperInject) Windows DLL 注入调试工具 · [TorSOCKS5](https://github.com/Mofan2020/TorSOCKS5) 跨平台 SOCKS5 代理
 
 ## 📫 联系方式
 
@@ -39,4 +62,3 @@
 
 我现已入驻爱发电：[我的爱发电主页](https://ifdian.net/a/skyc8266)
 做项目还是有些累的，希望能够得到大家的喜爱与支持！
-
