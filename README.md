@@ -22,7 +22,7 @@ macOS 睡眠与电源管理工具。保持清醒、定时睡眠与唤醒、服�
 
 [GitHub](https://github.com/Mofan2020/DeepSleep) · [下载](https://github.com/Mofan2020/DeepSleep/releases)
 
-### SDM（SuperDownloadManager）
+### SDM（SuperDownloadManager）(试验性，仍处于测试中)
 
 macOS 多线程下载器，对标 IDM，自写动态分片与断点续传。
 
